@@ -1,4 +1,5 @@
 DATAI TEAM AI için oluşturduğu 7 kursun ilerlemesini bulunuyor
+
 1)Python
 2)Data Science
 3)Visualization Tools

@@ -1,4 +1,4 @@
-DATAI TEAM ile 7 adımlık yapay zeka programı
+DATAI TEAM İLE 7 ADIMLIK YAPAY ZEKA PROGRAMI
 
 1)Python
 

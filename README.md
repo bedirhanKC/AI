@@ -1,4 +1,4 @@
-DATAI TEAM AI için oluşturduğu 7 kursun ilerlemesini bulunuyor
+DATAI TEAM AI için oluşturduğu 7 kursun ilerlemesi bulunuyor
 
 1)Python
 

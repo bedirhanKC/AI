@@ -1,4 +1,4 @@
-DATAI TEAM AI için oluşturduğu 7 kursun ilerlemesi bulunuyor
+DATAI TEAM ile 7 adımlık yapay zeka programı
 
 1)Python
 

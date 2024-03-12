@@ -2,9 +2,9 @@ DATAI TEAM İLE 7 ADIMLIK YAPAY ZEKA PROGRAMI
 
 1)Python
 
-2)Data Science
+2)Data Science (Kaggle)
 
-3)Visualization Tools
+3)Visualization Tools (Kaggle)
 
 4)Machine Learning
 

@@ -14,3 +14,7 @@ DATAI TEAM İLE 7 ADIMLIK YAPAY ZEKA PROGRAMI
 
 7)Artificial Intelligence
 
+&
+
+A) Image Processing
+

@@ -14,6 +14,6 @@ print("resized image size : ", imgResized.shape)
 cv2.imshow("resized img",imgResized)
 cv2.imwrite('resizeAndCropImageResizedImage.jpg', imgResized)
 
-imgCropped = imgResized[:500,250:750]
+imgCropped = imgResized[:500,250:750] # height,width
 cv2.imshow("cropped img",imgCropped) 
 cv2.imwrite('resizeAndCropImageCroppedImage.jpg', imgCropped)
